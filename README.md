@@ -61,7 +61,11 @@ In this task, you use the yum package manager to update and upgrade the machine,
 
 - <b> To update packages, enter sudo yum -y upgrade and press Enter.</b>
 
-
+<p align="center">
+ec2-user: <br/>
+<img src="https://imgur.com/a/UTpKbdt" height="80%" width="80%" alt="ec2 launching"/>
+<br />
+<br />
 
 
 
